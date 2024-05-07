@@ -1,0 +1,21 @@
+{
+  "name": "adventure_game_shabbir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shabbir",
+  "license": "ISC",
+  "description": "this is cli based an adventure game",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
